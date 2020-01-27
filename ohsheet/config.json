@@ -1,0 +1,15 @@
+{
+    "scope" : ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"],
+    "client-secret" : {
+        "type": "service_account",
+        "project_id": "python-249204",
+        "private_key_id": "47f97ad5069ce4e30c4ceb5a4f8431d79ec5ac1a",
+        "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCanpk3ihTk9137\n8ASjq6UXwjPeIJBjbnH5o1vBraL4mchJ7CljT1tCAfbibNzBNTSfzYgRLkUKKykE\npLoCns3wHsxO2QOVjhHcA+0qD9iMSo78YREUQnT9rJaqpUGQvueAA/jdLvJarL8S\ns4Ki61eNNMpRMPfPcygQ2IOHSbLH6+L2xEBf1svTwf3Gh7w+QFQvYB9+2Jc1UMt+\nJnLxNUeQKcOkGnPXA++CqBjBUZ8apm9onptn91oLQ+ixqImeSSvW31BcNpyTGrZz\nzBAHWV673VfEEeG0aUdX8k5jLkVOfvNzB4UfQpkL2D+qv8foe6LBuaFbIIiFWgkn\ngC/6o2dVAgMBAAECggEASxXAnu1xpx0PKWTNw/N7KRX4XSKgK4D7XTi8usmI7kOz\ntV43XRAw51WP4DXwX+zoAMBtFrbK9Ryvfx9FazdWF4jFO3b8XBiRSLApcDcguEQO\nurWidx2stXGl+vlkZRen0Q1cwYBmVa003q6Ivngd3KcpppLqjHXGG6Qg/0ZFSPrd\nIo6srSBMe5ymmTtNaZSPvtqYqGFROMwu64DirbA3GxQwE7dQy0szdxOjShi05ANN\nwfC/JmWpfQuFPGEBhhr23oJigaUA2ss26A4VLRzKhOJXAuK1IgPKloLG36sWQ8aJ\nJV9Plm5yd1ob9P7fvdVCyFe+rK78NlT6P4roWKB5owKBgQDP4VnTswtXn40zlSkw\nZMvPG4lqMbiyrXJUwj+xFNh1n/uhhfbq0eh3hpq0DrCApux3DcjXcyy7ig5v1Q+J\nXRDVcT3b1+MEBbtwATk1qTRdcfYx/9p0YR2feBloLvdUEF8ay89Q/GPHqaBg4m87\nCnk+T8p49BPAWttLRok45pRqmwKBgQC+aRoCFEyjM2/btZVFhNNsOP6dHRIb1NVd\nTDvofKEfRxBLFf3B1DBGrW9N6WFFWK1pV0uyIT5Ok0BOEKz7lJQnhYbOQg6dojFy\nmy/sdfqRjdGCp7s+6A4q6iDfZTCj+XOWa7ck6k9GphNfbFKF63BFRzy2bPLlx+yO\nT6vQ9UzczwKBgC4hNLy8m4S7PCs5K2W4yF1SIAE3vWOxB5D1dgrGtG4NrVofjzZ2\nlB6J+SSBqfsyj4Cvx2TAAyourZt1bTgvNcAXnAF/+7l1yC1HqDlXLe6ajmZz/zca\nIee0T/cFjQ7TfzdECOJQz5eL9bHqLYKthVAlhqmmiAeEYetnYKYGzOKHAoGAacPR\nmYQTCbgBkyXq02GzWnLSIw1JyMHQ/nDg+gN4L/p2N27wtCCb7DZcFAflavKV6GR/\n/GLwzA6I8pPasifWn5lQxvL0UWUNWF6RISRrWTxQOuXWYVveusGwHsaDXSGrrcsJ\nQO0Ruel361ItCIw9oY2vUJl11mLVqDri8j+/QQsCgYB6mOX0yl4HDdHNbSSbmM/i\nfO85MsghjxN7APIcyrBPzP6q0IaLFmN7bQUWWl5vkiPo/v7inYqGAv6fxoFczvQS\nK1bWdtMGJVQ5DKPwhcJNkvW0li7i12bp0p4pIl6AxFVTPG+5jw5i12eDKN83HQKw\nth/ozu7sAUm61b0hDaI3iw==\n-----END PRIVATE KEY-----\n",
+        "client_email": "pythonacc@python-249204.iam.gserviceaccount.com",
+        "client_id": "106486896223630816263",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonacc%40python-249204.iam.gserviceaccount.com"
+    }
+}
