@@ -106,3 +106,35 @@ def get_empty_array(n):
     r = ['' for i in range(n)]
     
     return r
+
+def value_zipper(raw):
+    """
+
+    :return: array of dictionary of attribute and value pair
+    Example:
+    [
+        {
+            'id': 1,
+            'name': 'Michael',
+            'age': 21
+        }, 
+        {
+            'id': 2,
+            'name': 'John',
+            'age': 19
+        }
+    ]
+    """
+    all_values = []
+
+    for value in raw['values'][1:]:
+        all_values.append(
+            dict(
+                zip(
+                    [key for key in raw['values'][0]],
+                    [i for i in value]
+                )
+            )
+        )
+
+    return all_values
